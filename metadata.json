@@ -1,0 +1,6 @@
+{
+  "name": "ArenaPlay Multiplayer",
+  "description": "A responsive browser-based multiplayer game platform featuring real-time Connect Four and Tic-Tac-Toe with online rooms, pass-and-play, and smart AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
